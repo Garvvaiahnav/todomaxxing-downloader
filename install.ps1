@@ -1,4 +1,4 @@
-# Todo Maxxing Downloader installer for Windows (64-bit). Developed by Todo Maxxing.
+# Todo Maxxing Downloader installer for Windows (64-bit).
 #
 #   irm https://todomaxxing.com/install.ps1 | iex
 #

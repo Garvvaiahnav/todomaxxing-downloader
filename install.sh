@@ -1,5 +1,5 @@
 #!/bin/bash
-# Todo Maxxing Downloader installer for Mac (Apple Silicon). Developed by Todo Maxxing.
+# Todo Maxxing Downloader installer for Mac (Apple Silicon).
 #
 #   curl -fsSL https://todomaxxing.com/install.sh | bash
 #
